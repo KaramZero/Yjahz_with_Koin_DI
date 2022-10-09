@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Yjahz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_all"><u>View all</u></string>
+    <string name="home">Home</string>
+    <string name="search_for_fav_food">Search for fav food …</string>
+    <string name="categories">Categories</string>
+    <string name="popular_now">Popular now</string>
+    <string name="trending_now">Trending now</string>
+    <string name="write_your_email">Write your email</string>
+    <string name="write_8_character_at_least">Write 8 character at least</string>
+    <string name="log_in">LOG IN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_the_password">Forgot the password ?</string>
+    <string name="don_t_have_an_account">Don’t have an account ?</string>
+    <string name="log_in_small">Log in</string>
+    <string name="sign_up_small">Sign up</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="have_an_account">have an account ?</string>
+    <string name="write_14_character">Write 14 character</string>
+    <string name="name">Name</string>
+    <string name="write_11_number">Write 11 number</string>
+    <string name="phone_number">Phone Number.</string>
+    <string name="write_your_password_again">Write your password again</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="wrong_emal_or_password">wrong email or password</string>
+    <string name="check_password">check password</string>
+    <string name="check_email">check email</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="not_valid_name">not valid name</string>
+    <string name="not_valid_email">not valid email</string>
+    <string name="not_valid_phone">not valid phone</string>
+    <string name="not_valid_password">not valid password</string>
+    <string name="not_the_same_as_password">not the same as password</string>
+</resources>
