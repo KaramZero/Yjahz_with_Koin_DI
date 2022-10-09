@@ -16,8 +16,8 @@ class BaseApplication : Application() {
             androidContext(this@BaseApplication)
             // Load modules
             modules(
-                apiModule, retrofitModule, sharedPreferencesModule, remoteSourceModules,
-                adaptersModule, viewModelModules
+                apiModule, retrofitModule, sharedPreferencesModule, remoteSourceModule,
+                adaptersModule, viewModelsModule
             )
         }
     }

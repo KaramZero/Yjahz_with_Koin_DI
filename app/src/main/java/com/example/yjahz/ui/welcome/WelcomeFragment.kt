@@ -63,12 +63,12 @@ class WelcomeFragment : Fragment() {
         }
 
         binding.logoImage.setOnClickListener {
-            animate(it)
+            animateAsFallingObject(it)
         }
 
     }
 
-    private fun animate(it: View?) {
+    private fun animateAsFallingObject(it: View?) {
         val container = it?.parent as ViewGroup
         val containerW = container.width
         val containerH = container.height

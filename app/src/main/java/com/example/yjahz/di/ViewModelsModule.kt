@@ -8,7 +8,7 @@ import org.koin.androidx.viewmodel.dsl.viewModelOf
 import org.koin.dsl.module
 
 
-val viewModelModules = module {
+val viewModelsModule = module {
     viewModelOf(::WelcomeViewModel)
     viewModelOf(::SignUpViewModel)
     viewModelOf(::LogInViewModel)
